@@ -2,16 +2,46 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/9z18n5"  />
-</div>
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="260" height="260" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9z18n5"></iframe></div><p><a href="https://imgflip.com/gif/9z18n5">via Imgflip</a></p></div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorr0cha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false" height="160" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=igorr0cha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&custom_title=%C3%8Dgor's%20Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=igorr0cha&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=4&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark"
+  />
+
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
+  />
+  
+  <img
+    align="center"
+    alt="Profile Summary"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorr0cha&theme=algolia"
+  />
+  
+  <br>
+  <br>
+  
+  <img
+    height=154
+    align="center"
+    alt="Streak Stats"
+    src="https://github-readme-streak-stats.herokuapp.com?user=igorr0cha&theme=algolia&card_width=885"
+  />
+
+
+  <br>
+  <br>
+
+  
 </div>
 
 ###
