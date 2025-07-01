@@ -7,22 +7,21 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
 ---
 ### 📊 Estatísticas
 
-<div style="display: flex; justify-content: center; align="center">
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
-  />
-  
-  <br><br>
-
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
-  />
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img
+      height=165
+      align="center"
+      alt="Top Language"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+    />
+    <img
+      height=165
+      align="center"
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    />
+  </div>
   
   <br><br>
 
@@ -42,7 +41,8 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
   />
 
   <br><br>
-
+  
+  
 </div>
 
 ---
