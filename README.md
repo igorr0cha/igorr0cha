@@ -6,6 +6,7 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
 
 ---
 ### 📊 Estatísticas
+<br>
 
 <div align="left">
   <div style="display: flex; justify-content: center;">
@@ -36,6 +37,7 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -66,7 +68,7 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
 ---
 
 ### 💻 Ferramentas e Ecossistema de Trabalho
-<br><br>
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
@@ -87,7 +89,7 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
 ---
 
 ### Entre em contato comigo:</h3>
-<br><br>
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/igor-roch4/" target="_blank">
