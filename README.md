@@ -30,16 +30,7 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
   alt="Profile Summary"
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorr0cha&theme=tokyonight"
   />
-
-  <br>
   
-  <img
-    height=154
-    align="center"
-    alt="Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com?user=igorr0cha&theme=tokyonight&card_width=885"
-  />
-
   <br><br>
   
 </div>
