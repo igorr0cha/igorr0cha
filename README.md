@@ -4,9 +4,9 @@
 
 Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º período de Ciência da Computação no CEUB. Sou uma pessoa extremamente curiosa, sou ambicioso e apaixonado por tecnolgia. Adoro entender o porquê das coisas, seja a estratégia de um time de futebol ou o funcionamento interno de um software. E quero por meio das portas que a tecnologia abre, desenvolver habilidades, viver experiências, agregar valor, e ajudar as pessoas so meu redor.
 
-<br>
-
 ---
+
+<br>
 
 ### 📊 Estatísticas
 
