@@ -1,10 +1,11 @@
-<h2 align="left">Olá! Eu sou o Ígor Tavares Rocha<br>Desenvolvedor FullStack</h2>
+#  Ígor Tavares Rocha
 
-###
+**`Desenvolvedor FullStack`**
 
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="260" height="260" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9z18n5"></iframe></div><p><a href="https://imgflip.com/gif/9z18n5">via Imgflip</a></p></div>
+Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º período de Ciência da Computação no CEUB. Sou uma pessoa extremamente curiosa, sou ambicioso e apaixonado por tecnolgia. Adoro entender o porquê das coisas, seja a estratégia de um time de futebol ou o funcionamento interno de um software. E quero por meio das portas que a tecnologia abre, desenvolver habilidades, viver experiências, agregar valor, e ajudar as pessoas so meu redor.
 
-###
+---
+### 🤖 Linguagens e Tecnologias
 
 <div align="center">
   <img
