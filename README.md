@@ -7,7 +7,7 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
 ---
 ### 📊 Estatísticas
 
-<div align="center">
+<div style="display: flex; justify-content: center; align="center">
   <img
     height=165
     align="center"
@@ -15,8 +15,7 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
   />
   
-  <br>
-  <br>
+  <br><br>
 
   <img
     height=165
@@ -24,14 +23,14 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
-  <br>
-  <br>
+  
+  <br><br>
 
   <img
   align="center"
   alt="Profile Summary"
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorr0cha&theme=tokyonight"
-/>
+  />
 
   <br><br>
   
@@ -44,13 +43,12 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
 
   <br><br>
 
-  
 </div>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<br><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
