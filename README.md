@@ -5,7 +5,7 @@
 Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º período de Ciência da Computação no CEUB. Sou uma pessoa extremamente curiosa, sou ambicioso e apaixonado por tecnolgia. Adoro entender o porquê das coisas, seja a estratégia de um time de futebol ou o funcionamento interno de um software. E quero por meio das portas que a tecnologia abre, desenvolver habilidades, viver experiências, agregar valor, e ajudar as pessoas so meu redor.
 
 ---
-### 🤖 Linguagens e Tecnologias
+### 📊 Estatísticas
 
 <div align="center">
   <img
@@ -42,17 +42,15 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
     src="https://github-readme-streak-stats.herokuapp.com?user=igorr0cha&theme=tokyonight&card_width=885"
   />
 
-  <br>
-  <br>
+  <br><br>
 
   
 </div>
 
-###
+---
 
-<h3 align="left">Tecnologias</h3>
+### 🤖 Linguagens e Tecnologias
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -80,11 +78,10 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">Ferramentas e Ecossistema de Trabalho</h3>
-
-###
+### 💻 Ferramentas e Ecossistema de Trabalho
+<br><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
@@ -102,11 +99,10 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">Entre em contato comigo:</h3>
-
-###
+### Entre em contato comigo:</h3>
+<br><br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/igor-roch4/" target="_blank">
@@ -122,6 +118,8 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+---
 
 ###
 
