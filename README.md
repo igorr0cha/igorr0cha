@@ -21,7 +21,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purplek&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&rank_icon=github&theme=chartreuse-dark&font=Iosevka"
   />
   <br>
   <br>
@@ -29,7 +29,7 @@
   <img
     align="center"
     alt="Profile Summary"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorr0cha&theme=chartreuse-dark"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorr0cha&theme=Highcontrast"
   />
   
   <br>
