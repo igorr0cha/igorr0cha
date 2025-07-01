@@ -29,7 +29,7 @@
   <img
     align="center"
     alt="Profile Summary"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorr0cha&theme=dark"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorr0cha&theme=Midnight Purple"
   />
   
   <br>
