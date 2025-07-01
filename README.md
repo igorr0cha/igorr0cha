@@ -31,8 +31,6 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorr0cha&theme=tokyonight"
   />
   
-  <br><br>
-  
 </div>
 
 ---
