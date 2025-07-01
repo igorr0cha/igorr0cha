@@ -27,21 +27,19 @@
   <br>
 
   <img
-    align="center"
-    alt="Profile Summary"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorr0cha&theme=algolia"
-  />
-  
-  <br>
-  <br>
+  align="center"
+  alt="Profile Summary"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorr0cha&theme=tokyonight"
+/>
+
+  <br><br>
   
   <img
     height=154
     align="center"
     alt="Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com?user=igorr0cha&theme=Highcontrast&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=igorr0cha&theme=tokyonight&card_width=885"
   />
-
 
   <br>
   <br>
