@@ -36,7 +36,6 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<br><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
