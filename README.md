@@ -120,10 +120,9 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
     
 <br>
 </div>
+<br>
 
-###
-
-![github snake animation](https://raw.githubusercontent.com/igorr0cha/igorr0cha/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/igorr0cha/igorr0cha/output/snake.svg" alt="Snake animation" />
 
 ###
 
