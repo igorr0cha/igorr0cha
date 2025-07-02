@@ -40,7 +40,7 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
     />
   </div>
 
-<br><br>
+<br>
 </div>
 
 ## Linguagens e Tecnologias
@@ -94,7 +94,7 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
     
-  <br><br>
+<br>
 </div>
 
 ## Entre em contato comigo:
@@ -113,7 +113,8 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
   <a href="www.instagram.com/igorr_r0cha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-<br><br>
+    
+<br>
 </div>
 
 ##
