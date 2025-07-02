@@ -91,7 +91,7 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
   <a href="(61) 9 8435-9060" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="(61) 9 8435-9060" target="_blank">
+  <a href="www.instagram.com/igorr_r0cha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
