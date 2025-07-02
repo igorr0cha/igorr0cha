@@ -53,7 +53,8 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
 
   <br>
 </div>
