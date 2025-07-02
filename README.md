@@ -9,13 +9,13 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
 <br>
 
 <div align="left">
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center; gap: 20px;>
     <img
       height=165
       align="center"
       alt="Top Language"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark"
-    /> <br>
+    />
     <img
       height=165
       align="center"
