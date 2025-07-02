@@ -6,6 +6,7 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
 <br>
 
 ## 📊 Estatísticas
+<br>
 
 <div align="left">
   <div style="display: flex; justify-content: center;">
