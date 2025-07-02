@@ -32,7 +32,7 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
   
 </div>
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 <br>
 
 <div align="left">
@@ -61,7 +61,7 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
 </div>
 
-### 💻 Ferramentas e Ecossistema de Trabalho
+## 💻 Ferramentas e Ecossistema de Trabalho
 <br>
 
 <div align="left">
@@ -80,7 +80,7 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-### Entre em contato comigo:
+## Entre em contato comigo:
 <br>
 
 <div align="left">
@@ -98,8 +98,8 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
   </a>
 </div>
 
-###
+##
 
 <img src="https://raw.githubusercontent.com/igorr0cha/igorr0cha/output/snake.svg" alt="Snake animation" />
 
-###
+##
