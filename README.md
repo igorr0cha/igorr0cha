@@ -77,6 +77,7 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
 
   <br>
 </div>
+<br>
 
 ## Ferramentas e Ecossistema de Trabalho
 <br>
