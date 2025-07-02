@@ -11,7 +11,7 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/igorr0cha?color=55960c&style=for-the-badge&labelColor=000080&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/igorr0cha?color=000080&style=for-the-badge&labelColor=00005A&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/igorr0cha?tab=followers">
