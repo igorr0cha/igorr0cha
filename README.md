@@ -14,13 +14,13 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
       height=165
       align="center"
       alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark"
     />
     <img
       height=165
       align="center"
       alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+      src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&rank_icon=github&theme=chartreuse-dark&font=Iosevka"
     />
   </div>
 
