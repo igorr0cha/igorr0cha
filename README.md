@@ -19,7 +19,6 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
             src="https://custom-icon-badges.demolab.com/github/followers/igorr0cha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=00aeff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </p>
 
 <br><br>
