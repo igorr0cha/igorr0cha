@@ -73,7 +73,7 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
 
-  <br><br>
+  <br>
 </div>
 
 ## Ferramentas e Ecossistema de Trabalho
