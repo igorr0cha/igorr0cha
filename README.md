@@ -99,7 +99,6 @@ Me chamo Ígor, tenho 22 anos, natual de Brasília-DF. Atualmente no 6º períod
 </div>
 
 ##
-
+`
 <img src="https://raw.githubusercontent.com/igorr0cha/igorr0cha/output/snake.svg" alt="Snake animation" />
-
-##
+`
