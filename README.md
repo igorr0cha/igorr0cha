@@ -21,7 +21,7 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
     </a>
 </p>
 
-## 📊 Estatísticas
+## Estatísticas
 <br>
 
 <div align="left">
@@ -43,7 +43,7 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
 <br>
 </div>
 
-## 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 <br>
 
 <div align="left">
@@ -76,7 +76,7 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
   <br>
 </div>
 
-## 💻 Ferramentas e Ecossistema de Trabalho
+## Ferramentas e Ecossistema de Trabalho
 <br>
 
 <div align="left">
@@ -96,7 +96,7 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
   <br>
 </div>
 
-## 📲 Entre em contato comigo:
+## Entre em contato comigo:
 <br>
 
 <div align="left">
