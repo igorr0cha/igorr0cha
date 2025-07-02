@@ -1,8 +1,27 @@
-#  Ígor Tavares Rocha
+#  🐱‍💻 Ígor Tavares Rocha
 
 **`Desenvolvedor FullStack`**
 
 Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º período de Ciência da Computação no CEUB. Sou ambicioso, determinado e muito curioso; apaixonado por tecnolgia, adoro entender o porquê das coisas, seja a estratégia tática de um time de futebol ou o funcionamento interno de um software. E quero por meio das portas que a tecnologia abre, desenvolver habilidades, viver experiências, agregar valor, e ajudar as pessoas so meu redor.
+
+<p align="left">
+    <a href="https://github.com/igorr0cha?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/igorr0cha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/igorr0cha?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/igorr0cha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=00aeff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</p>
+
 <br><br>
 
 ## 📊 Estatísticas
