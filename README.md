@@ -6,23 +6,6 @@
 
 Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º período de Ciência da Computação no CEUB. Sou ambicioso, determinado e muito curioso; apaixonado por tecnolgia, adoro entender o porquê das coisas, seja a estratégia tática de um time de futebol ou o funcionamento interno de um software. E quero por meio das portas que a tecnologia abre, desenvolver habilidades, viver experiências, agregar valor, e ajudar as pessoas so meu redor.
 
-<p align="left">
-    <a href="https://github.com/igorr0cha?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/igorr0cha?color=000080&style=for-the-badge&labelColor=00005A&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/igorr0cha?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/igorr0cha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ## Estatísticas
 <br>
 
@@ -38,7 +21,7 @@ Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º perío
       height=165
       align="center"
       alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&rank_icon=github&theme=chartreuse-dark&font=Iosevka"
+      src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=chartreuse-dark&font=Iosevka"
     />
   </div>
 
