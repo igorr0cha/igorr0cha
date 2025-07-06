@@ -25,7 +25,7 @@
       height=165
       align="center"
       alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=blue-green&font=Iosevka"
+      src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=chartreuse-dark&font=Iosevka"
     />
     <img
       height=165
