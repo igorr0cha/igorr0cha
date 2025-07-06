@@ -16,7 +16,7 @@
 <p align="left">Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Sou ambicioso, determinado e muito curioso; apaixonado por tecnolgia, adoro entender o porquê das coisas, seja a estratégia tática de um time de futebol ou o funcionamento interno de um software. E quero por meio das portas que a tecnologia abre, desenvolver habilidades, viver experiências, agregar valor, e ajudar as pessoas ao meu redor.</p>
 
 ## Sobre mim
-<p align="left">📎 Cursando Ciência da Computação no Centro Universitário de Brasília (CEUB). <br>📎 Inglês Avançado. <br>📎 Atualmente estagiando em <b>automações</b> e <b>análise de dados</b> em <a href="https://documentall.com.b" target="_blank"> <b>DOCUMENTALL</b> </a></p>
+<p align="left">📎 Cursando Ciência da Computação no Centro Universitário de Brasília (CEUB). <br>📎 Inglês Avançado. <br>📎 Atualmente estagiando em <b>automações</b> e <b>análise de dados</b> em <a href="https://documentall.com.br" target="_blank"> <b>DOCUMENTALL</b> </a></p>
 
 ## Estatísticas
 <div align="left">
