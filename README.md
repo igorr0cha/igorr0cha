@@ -3,7 +3,7 @@
 </div> <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 
-<h1 align="left">🧑‍💻 Ígor Tavares Rocha</h1>
+# 🧑‍💻 Ígor Tavares Rocha
 
 ###
 
