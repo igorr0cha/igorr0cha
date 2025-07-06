@@ -1,114 +1,113 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/igorr0cha/count.svg?"  />
+</div> <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 
-#  🐱‍💻 Ígor Tavares Rocha
+###
 
-**`Desenvolvedor FullStack`**
+<h1 align="left">🐱‍💻 Ígor Tavares Rocha</h1>
 
-Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Atualmente no 6º período de Ciência da Computação no CEUB. Sou ambicioso, determinado e muito curioso; apaixonado por tecnolgia, adoro entender o porquê das coisas, seja a estratégia tática de um time de futebol ou o funcionamento interno de um software. E quero por meio das portas que a tecnologia abre, desenvolver habilidades, viver experiências, agregar valor, e ajudar as pessoas so meu redor.
+###
+
+`Desenvolvedor FullStack`
+
+###
+
+<p align="left">Me chamo Ígor, tenho 22 anos, natural de Brasília-DF. Sou ambicioso, determinado e muito curioso; apaixonado por tecnolgia, adoro entender o porquê das coisas, seja a estratégia tática de um time de futebol ou o funcionamento interno de um software. E quero por meio das portas que a tecnologia abre, desenvolver habilidades, viver experiências, agregar valor, e ajudar as pessoas ao meu redor.</p>
+
+## Sobre mim
+<p align="left">📎 Cursando Ciência da Computação no Centro Universitário de Brasília (CEUB).</p>
 
 ## Estatísticas
-<br>
-
 <div align="left">
   <div style="display: flex; justify-content: center">
     <img
       height=165
       align="center"
-      alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark"
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=blue-green&font=Iosevka"
     />
     <img
       height=165
       align="center"
-      alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=chartreuse-dark&font=Iosevka"
+      alt="Top Language"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=blue-green"
     />
   </div>
-
-<br>
 </div>
-
+  
 ## Linguagens e Tecnologias
-<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+</p>
+
+## Banco de dados e Nuvem
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
-
-  <br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
 </div>
-<br>
 
 ## Ferramentas e Ecossistema de Trabalho
-<br>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-    
-<br>
-</div>
-<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="jupyter logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=canvas" height="40" alt="canvas logo"  />
+</p>
 
 ## Entre em contato comigo:
-<br>
-
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/igor-roch4/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:igort10rocha@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  &nbsp;&nbsp;
   <a href="https://wa.me/5561984359060" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/igorr_r0cha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-    
-<br>
-</div>
+</p>
+
 <br>
 
 <img src="https://raw.githubusercontent.com/igorr0cha/igorr0cha/output/snake.svg" alt="Snake animation" />
 
-###
-
-<br><br>
+<br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=footer"/>
-
