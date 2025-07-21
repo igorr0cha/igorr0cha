@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/igorr0cha/count.svg?"  />
-</div> <br>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 
 # 🧑‍💻 Ígor Tavares Rocha
