@@ -79,9 +79,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://logovector.net/wp-content/uploads/2021/02/canvas-lms-logo-vector.png" height="40" alt="canvas logo"  />
+  <img src="https://cdn.simpleicons.org/canvaslms/E72429" height="40" alt="canvas logo"  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=trello" height="40" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 
 </p>
 
