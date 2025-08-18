@@ -77,10 +77,11 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=canvas" height="40" alt="canvas logo"  />
-  <img src="https://skillicons.dev/icons?i=trello" height="40" alt="trello logo" />
+  <img src="https://logovector.net/wp-content/uploads/2021/02/canvas-lms-logo-vector.png" height="40" alt="canvas logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=trello" height="40" alt="trello logo"  />
 
 </p>
 
