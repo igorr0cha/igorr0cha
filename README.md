@@ -79,7 +79,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/canvaslms/E72429" height="40" alt="canvas logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canvas_LMS_logo.svg" height="40" alt="canvas logo"  />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 
