@@ -80,6 +80,8 @@
   <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="jupyter logo"  />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=canvas" height="40" alt="canvas logo"  />
+  <img src="https://skillicons.dev/icons?i=trello" height="40" alt="trello logo" />
+
 </p>
 
 ## Entre em contato comigo:
