@@ -27,7 +27,7 @@
       height=165
       align="center"
       alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark&&exclude_repo=fitcooker,poupa-igao,consulta-emolumentos"
     />
   </div>
 </div>
