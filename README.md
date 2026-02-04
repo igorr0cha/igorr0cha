@@ -38,10 +38,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -50,7 +46,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
 </p>
 
 ## Banco de dados e Nuvem
@@ -62,7 +57,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
 </div>
 
 ## Ferramentas e Ecossistema de Trabalho
