@@ -101,7 +101,7 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
     <img
       height=165
       alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark&exclude_repo=poupa-igao"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark&exclude_repo=poupa-igao&v=1"
     />
   </div>
 </div>
