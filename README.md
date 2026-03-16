@@ -6,7 +6,7 @@
 
 ###
 
-`Desenvolvedor de Software | Python, Java & Spring Boot ⏳`
+`Desenvolvedor de Software | Java, Spring Boot & Python ⏳`
 
 ###
 
@@ -17,7 +17,7 @@ Sou um desenvolvedor de software movido pela curiosidade. O que mais me motiva �
 
 Estou na reta final de Ciência da Computação e com muita vontade de crescer. Meu foco é colocar a mão na massa em projetos desafiadores, trocar ideias com pessoas da área e entregar valor real por onde eu passar.
 
-Fora do código, é bem provável que você me encontre jogando um basquete, jogando, indo ao cinema, saindo pra comer e curtir.
+Fora do código, é bem provável que você me encontre jogando basquete, curtindo um videogame, indo ao cinema ou saindo pra comer.
 
 Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para que você consiga entender de forma fácil a arquitetura e as decisões técnicas de cada um. Fique à vontade para explorar!
 <br>
@@ -28,8 +28,8 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
 🎓 Cursando o 7º semestre de <b>Ciência da Computação</b> no CEUB.<br>
 💼 Desenvolvedor na <a href="https://documentall.com.br" target="_blank"><b>DOCUMENTALL</b></a>, atuando com sistemas internos, integrações corporativas e rotinas de <b>web scraping</b>.<br>
 ☕ Aprofundando estudos no ecossistema <b>Java com Spring Boot</b> para desenvolvimento back-end robusto.<br>
-🗄️ Tive a oportunidade de participar de mais de uma das etapas do desenvolvimento de soluções, tendo passado pelo levanteamento de requisitos, visualização e análise de de dados, e hoje, diariamente lidando com desenvolvimento de software. <br>
-🗣️ Inglês Avançado (entendo, escrevo, me comunico, bem).
+🗄️ Vivência prática em múltiplas etapas do ciclo de vida de soluções: do levantamento de requisitos e análise de dados até o desenvolvimento focado no produto final.<br>
+🗣️ Inglês Avançado (leio, escrevo e me comunico bem).
 </p>
 
 ## 🚀 Projetos & Impacto
@@ -115,8 +115,6 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
   <a href="mailto:igort10rocha@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  &nbsp;&nbsp;
-  
 </p>
 
 <br>
