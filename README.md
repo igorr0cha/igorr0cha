@@ -23,7 +23,7 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
 <br>
 </p>
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 <p align="left">
 🎓 Cursando o 7º semestre de <b>Ciência da Computação</b> no CEUB.<br>
 💼 Desenvolvedor na <a href="https://documentall.com.br" target="_blank"><b>DOCUMENTALL</b></a>, atuando com sistemas internos, integrações corporativas e rotinas de <b>web scraping</b>.<br>
@@ -32,12 +32,12 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
 🗣️ Inglês Avançado (leio, escrevo e me comunico bem).
 </p>
 
-## 🚀 Projetos & Impacto
+## Projetos & Impacto
 - **Notificações Cartórios:** Aplicação desktop construída em Python (PyQt6 e Selenium) que otimiza e unifica toda a comunicação cartorial via ONR em múltiplas plataformas, conectando-se diretamente ao sistema interno da empresa. Para lidar com a complexidade, apliquei princípios **SOLID**, arquitetura baseada no padrão **Factory** e concorrência. O projeto envolveu desde a otimização de queries em banco de dados até o design de uma interface pensada na experiência do usuário final. *(Próxima feature: módulo de comunicação automatizada via e-mail).*
 - **E-GUIA & Sistemas Cartorários:** Desenvolvimento de integrações voltadas para a emissão de guias de impostos, consultas de emolumentos e análise de matrículas de imóveis, atuando fortemente na lógica de negócios e gerenciamento de dados via banco relacional.
 - **FitCooker:** Plataforma focada em receitas e alimentação saudável. Desenvolvida passando por todo o ciclo: desde o planejamento estrutural e modelagem do banco de dados até a coleta prática de feedback de usuários.
 
-## 💻 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   &nbsp;&nbsp;&nbsp;
@@ -52,7 +52,7 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </p>
 
-## 🗄️ Banco de Dados e Nuvem
+## Banco de Dados e Nuvem
 <div align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   &nbsp;
@@ -63,7 +63,7 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </div>
 
-## 🧠 Arquitetura e Boas Práticas
+## Arquitetura e Boas Práticas
 <div align="left">
   <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=codacy&logoColor=white" alt="SOLID"/>
   &nbsp;
@@ -77,7 +77,7 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
 </div>
 <br>
 
-## 🛠️ Ferramentas
+## Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   &nbsp;&nbsp;&nbsp;
@@ -90,18 +90,18 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
 </p>
 
-## 📊 Estatísticas
+## Estatísticas
 <div align="left">
   <div style="display: flex; justify-content: flex-start; gap: 10px;">
     <img
       height=165
-      alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=chartreuse-dark&font=Iosevka"
+      alt="Top Language"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark&exclude_repo=poupa-igao&v=1"
     />
     <img
       height=165
-      alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorr0cha&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark&exclude_repo=poupa-igao&v=1"
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api/?username=igorr0cha&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=chartreuse-dark&font=Iosevka"
     />
   </div>
 </div>
