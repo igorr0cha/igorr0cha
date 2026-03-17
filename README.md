@@ -6,7 +6,7 @@
 
 ###
 
-`Desenvolvedor de Software | Java, Spring Boot & Python ⏳`
+`Desenvolvedor de Software | Python, Java & Spring Boot ⏳`
 
 ###
 
