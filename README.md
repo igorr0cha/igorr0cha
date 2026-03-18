@@ -38,19 +38,19 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
 - **FitCooker:** Plataforma focada em receitas e alimentação saudável. Desenvolvida passando por todo o ciclo: desde o planejamento estrutural e modelagem do banco de dados até a coleta prática de feedback de usuários.
 
 ## Linguagens e Tecnologias
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+</div>
 
 ## Banco de Dados e Nuvem
 <div align="left">
@@ -75,20 +75,20 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
   &nbsp;
   <img src="https://img.shields.io/badge/TDD-FF6347?style=for-the-badge&logo=testing-library&logoColor=white" alt="TDD"/>
 </div>
-<br>
 
 ## Ferramentas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+</div>
+<br>
 
 ## Estatísticas
 <div align="left">
@@ -109,11 +109,11 @@ Deixei alguns dos meus projetos logo abaixo. Caprichei na documentação para qu
 ## 📬 Entre em contato comigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/igor-roch4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:igort10rocha@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"/>
   </a>
 </p>
 
