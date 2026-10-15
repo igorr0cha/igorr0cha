@@ -14,7 +14,7 @@
 
 ## 💼 Experiência & Projetos de Impacto
 
-### **Engenheiro @ Polícia Federal (Terceirizado)**
+### **Desenvolvedor na @ Polícia Federal (Terceirizado)**
 Atuação na manutenção e evolução de sistemas web de missão crítica a nível nacional. Foco no desenvolvimento de soluções robustas utilizando o ecossistema Oracle, PL/SQL e Oracle APEX, além da criação e consumo de APIs complexas aplicando, rotineiramentes, princípios SOLID e design patterns.
 
 ---
